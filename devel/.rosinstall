@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robot/ROS_Test02/devel/setup.sh
